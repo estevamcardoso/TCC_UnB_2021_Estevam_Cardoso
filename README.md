@@ -7,5 +7,4 @@
 1. Modelagem
 1. Etc.
 
-![Protótipo](/img/prot_final.jpg)
-<img src="/img/prot_final.jpg" width="200">
+<img src="/img/prot_final.jpg" width="400">
