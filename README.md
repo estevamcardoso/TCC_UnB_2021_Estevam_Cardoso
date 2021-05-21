@@ -7,4 +7,4 @@
 1. Modelagem
 1. Etc.
 
-![Protótipo](/img/prot_final.jpg)
+![Protótipo](/img/prot_final.jpg =400x)
