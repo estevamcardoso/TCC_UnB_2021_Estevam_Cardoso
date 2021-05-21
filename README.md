@@ -7,4 +7,4 @@
 1. Modelagem
 1. Etc.
 
-![](/img/prot_final.jpg)
+![Protótipo](/img/prot_final.jpg)
